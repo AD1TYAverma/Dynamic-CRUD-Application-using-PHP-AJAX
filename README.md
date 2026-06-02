@@ -26,21 +26,21 @@ CSS3
 
 This project helps understand:
 
-AJAX Requests using jQuery
-PHP & MySQL Integration
-CRUD Operations
-Dynamic DOM Manipulation
-Event Delegation
-Modal Popup Implementation
-Asynchronous Data Handling
+- AJAX Requests using jQuery
+- PHP & MySQL Integration
+- CRUD Operations
+- Dynamic DOM Manipulation
+- Event Delegation
+- Modal Popup Implementation
+- Asynchronous Data Handling
 
 # Future Improvements
-Search Records
-Pagination
-Form Validation
-Bootstrap UI
-User Authentication
-REST API Integration
+- Search Records
+- Pagination
+- Form Validation
+- Bootstrap UI
+- User Authentication
+- REST API Integration
 
 # Author
 Aditya Verma
